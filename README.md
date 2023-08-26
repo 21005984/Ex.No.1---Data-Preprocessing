@@ -32,10 +32,44 @@ Normalizing the data
 Splitting the data into test and train
 
 ## PROGRAM:
-/Write your code here/
-
+~~~
+Register Number: 212221230058
+Name: Meiyarasi.V
+import pandas as pd
+df=pd.read_csv("/content/Churn_Modelling.csv")
+df.head()
+df.isnull().sum()
+df.drop(["RowNumber","Age","Gender","Geography","Surname"],inplace=True,axis=1)
+print(df)
+x=df.iloc[:,:-1].values
+y=df.iloc[:,-1].values
+print(x)
+print(y)
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler()
+df1 = pd.DataFrame(scaler.fit_transform(df))
+print(df1)
+from sklearn.model_selection import train_test_split
+xtrain,ytrain,xtest,ytest=train_test_split(x,y,test_size=0.2,random_state=2)
+print(xtrain)
+print(len(xtrain))
+print(xtest)
+print(len(xtest))
+from sklearn.preprocessing import StandardScaler
+sc = StandardScaler()
+df1 = sc.fit_transform(df)
+print(df1)
+~~~
 ## OUTPUT:
-/ Show the result/
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/177a4e4b-b722-443e-a0af-1102b145ae85)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/2f881fcf-93cc-4b78-b43c-b861396c97f2)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/4ce04bf9-33f4-4f57-a465-1a5c9f08f0a7)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/37197f6d-3d90-4d96-93a1-3d574c88f7b3)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/e35bffff-3355-4ebc-b264-bb05da12dd36)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/ca93bb25-0edf-4725-b947-6570081dd2a0)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/5cb61394-e484-4c35-a581-6450ba08c518)
+![Uploading image.png…]()
+
 
 ## RESULT
-/Type your result here/
+Data preprocessing is performed in the given dataset.
