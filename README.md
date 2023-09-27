@@ -80,9 +80,6 @@ print(df1)
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/ca93bb25-0edf-4725-b947-6570081dd2a0)
 
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/5cb61394-e484-4c35-a581-6450ba08c518)
-
-
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/1f443ea1-5656-44d9-8440-44d8c9775cee)
 
 
