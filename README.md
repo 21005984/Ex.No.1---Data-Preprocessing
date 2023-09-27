@@ -68,8 +68,9 @@ print(df1)
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/e35bffff-3355-4ebc-b264-bb05da12dd36)
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/ca93bb25-0edf-4725-b947-6570081dd2a0)
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/5cb61394-e484-4c35-a581-6450ba08c518)
-![Uploading image.png…]()
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/1f443ea1-5656-44d9-8440-44d8c9775cee)
+
 
 
 ## RESULT
-Data preprocessing is performed in the given dataset.
+Hence the data preprocessing is done using the above code and data has been splitted into trainning and testing data for getting a better model.
