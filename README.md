@@ -61,13 +61,28 @@ df1 = sc.fit_transform(df)
 print(df1)
 ~~~
 ## OUTPUT:
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/177a4e4b-b722-443e-a0af-1102b145ae85)
+
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/2f881fcf-93cc-4b78-b43c-b861396c97f2)
+
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/4ce04bf9-33f4-4f57-a465-1a5c9f08f0a7)
+
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/37197f6d-3d90-4d96-93a1-3d574c88f7b3)
+
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/e35bffff-3355-4ebc-b264-bb05da12dd36)
+
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/ca93bb25-0edf-4725-b947-6570081dd2a0)
+
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/5cb61394-e484-4c35-a581-6450ba08c518)
+
+
 ![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/1f443ea1-5656-44d9-8440-44d8c9775cee)
 
 
