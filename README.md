@@ -62,27 +62,17 @@ print(df1)
 ~~~
 ## OUTPUT:
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/177a4e4b-b722-443e-a0af-1102b145ae85)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/756c03e3-ceda-4e87-ade6-c54c3b674519)
 
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/4077915e-0fcc-4af0-98b7-337ec5a062bf)
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/2f881fcf-93cc-4b78-b43c-b861396c97f2)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/c441d1e3-83a4-4968-a8d2-8376cdbeb1eb)
 
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/fffb8082-2185-4895-98db-1b6642689929)
 
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/4ce04bf9-33f4-4f57-a465-1a5c9f08f0a7)
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/5e7dea59-e4f7-40c5-84fd-b30f34125e2c)
 
-
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/37197f6d-3d90-4d96-93a1-3d574c88f7b3)
-
-
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/e35bffff-3355-4ebc-b264-bb05da12dd36)
-
-
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/ca93bb25-0edf-4725-b947-6570081dd2a0)
-
-
-![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/1f443ea1-5656-44d9-8440-44d8c9775cee)
-
-
+![image](https://github.com/21005984/Ex.No.1---Data-Preprocessing/assets/94748389/1cfca45b-e3cd-4f66-9c10-dc1728d73199)
 
 ## RESULT
 Hence the data preprocessing is done using the above code and data has been splitted into trainning and testing data for getting a better model.
